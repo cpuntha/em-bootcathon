@@ -1,1 +1,1 @@
-# em-bootcathon
+# em-bootcathon GitHub Copilot in Action
